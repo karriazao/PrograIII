@@ -1,0 +1,10 @@
+Controlador\Cursos.class
+Controlador\Jornadas.class
+Controlador\AsignacionCursosAlumnos.class
+Controlador\Maestros.class
+Modelo\Conexion.class
+Modelo\JornadasDAO.class
+Vista\Principal.class
+Controlador\Carreras.class
+Controlador\Alumnos.class
+Modelo\MaestrosDAO.class
